@@ -17,3 +17,15 @@ height: 300px;
     color: yellow;
     font-size: 25px;
 }
+
+.flex {
+    display: flex;
+}
+
+.paragraph {
+    margin-right: 50px;
+}
+
+.revo {
+    border-radius: 20px;
+}
